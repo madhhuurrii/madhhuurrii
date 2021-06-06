@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Myself Madhuri Ramakrishnan
 
 <!--
 **madhhuurrii/madhhuurrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning React and Django.
+- 🤔 I’m looking for help with DSA and Problem Solving (T_T) 
+- 😄 Pronouns: She/her (^_^)
+- ⚡ Fun fact: I am an introvert, who ocassionaly visit Omegle to talk with strangers lol. (>_<)
