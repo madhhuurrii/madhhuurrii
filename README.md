@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React and Django.
 - 🤔 I’m looking for help with DSA and Problem Solving (T_T) 
 - 😄 Pronouns: She/her (^_^)
-- ⚡ Fun fact: I am an introvert, who ocassionaly visit Omegle to talk with strangers lol. (>_<)
+- ⚡ Fun fact: I am an introvert (>_<)
